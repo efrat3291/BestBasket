@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u05D0\u05E4\u05E8\u05EA\\Desktop\\BestBasket\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{70290073-1632-48F7-A730-530E80C85096}|Mock\\Mock.csproj|c:\\users\\\u05D0\u05E4\u05E8\u05EA\\desktop\\bestbasket\\mock\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70290073-1632-48F7-A730-530E80C85096}|Mock\\Mock.csproj|solutionrelative:mock\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31FFE9CF-98AF-4064-80BA-8C4548171780}|Repository\\Repository.csproj|c:\\users\\\u05D0\u05E4\u05E8\u05EA\\desktop\\bestbasket\\repository\\interfaces\\icontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31FFE9CF-98AF-4064-80BA-8C4548171780}|Repository\\Repository.csproj|solutionrelative:repository\\interfaces\\icontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70290073-1632-48F7-A730-530E80C85096}|Mock\\Mock.csproj|c:\\users\\\u05D0\u05E4\u05E8\u05EA\\desktop\\bestbasket\\mock\\mock.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{70290073-1632-48F7-A730-530E80C85096}|Mock\\Mock.csproj|solutionrelative:mock\\mock.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31FFE9CF-98AF-4064-80BA-8C4548171780}|Repository\\Repository.csproj|c:\\users\\\u05D0\u05E4\u05E8\u05EA\\desktop\\bestbasket\\repository\\repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{31FFE9CF-98AF-4064-80BA-8C4548171780}|Repository\\Repository.csproj|solutionrelative:repository\\repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2A7F684-197A-4F92-8A20-8BE9F9726682}|Service\\Service.csproj|c:\\users\\\u05D0\u05E4\u05E8\u05EA\\desktop\\bestbasket\\service\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2A7F684-197A-4F92-8A20-8BE9F9726682}|Service\\Service.csproj|solutionrelative:service\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{675EC495-5784-49C7-9116-10F1648D86A3}|Common\\Common.csproj|c:\\users\\\u05D0\u05E4\u05E8\u05EA\\desktop\\bestbasket\\common\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{675EC495-5784-49C7-9116-10F1648D86A3}|Common\\Common.csproj|solutionrelative:common\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31FFE9CF-98AF-4064-80BA-8C4548171780}|Repository\\Repository.csproj|c:\\users\\\u05D0\u05E4\u05E8\u05EA\\desktop\\bestbasket\\repository\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31FFE9CF-98AF-4064-80BA-8C4548171780}|Repository\\Repository.csproj|solutionrelative:repository\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70290073-1632-48F7-A730-530E80C85096}|Mock\\Mock.csproj|c:\\users\\\u05D0\u05E4\u05E8\u05EA\\desktop\\bestbasket\\mock\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70290073-1632-48F7-A730-530E80C85096}|Mock\\Mock.csproj|solutionrelative:mock\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataBase.cs",
+              "DocumentMoniker": "C:\\Users\\\u05D0\u05E4\u05E8\u05EA\\Desktop\\BestBasket\\Mock\\DataBase.cs",
+              "RelativeDocumentMoniker": "Mock\\DataBase.cs",
+              "ToolTip": "C:\\Users\\\u05D0\u05E4\u05E8\u05EA\\Desktop\\BestBasket\\Mock\\DataBase.cs",
+              "RelativeToolTip": "Mock\\DataBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T19:39:34.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IContext.cs",
+              "DocumentMoniker": "C:\\Users\\\u05D0\u05E4\u05E8\u05EA\\Desktop\\BestBasket\\Repository\\Interfaces\\IContext.cs",
+              "RelativeDocumentMoniker": "Repository\\Interfaces\\IContext.cs",
+              "ToolTip": "C:\\Users\\\u05D0\u05E4\u05E8\u05EA\\Desktop\\BestBasket\\Repository\\Interfaces\\IContext.cs",
+              "RelativeToolTip": "Repository\\Interfaces\\IContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T19:30:10.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Repository.csproj",
+              "DocumentMoniker": "C:\\Users\\\u05D0\u05E4\u05E8\u05EA\\Desktop\\BestBasket\\Repository\\Repository.csproj",
+              "RelativeDocumentMoniker": "Repository\\Repository.csproj",
+              "ToolTip": "C:\\Users\\\u05D0\u05E4\u05E8\u05EA\\Desktop\\BestBasket\\Repository\\Repository.csproj",
+              "RelativeToolTip": "Repository\\Repository.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-01T19:25:37.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Mock.csproj",
+              "DocumentMoniker": "C:\\Users\\\u05D0\u05E4\u05E8\u05EA\\Desktop\\BestBasket\\Mock\\Mock.csproj",
+              "RelativeDocumentMoniker": "Mock\\Mock.csproj",
+              "ToolTip": "C:\\Users\\\u05D0\u05E4\u05E8\u05EA\\Desktop\\BestBasket\\Mock\\Mock.csproj",
+              "RelativeToolTip": "Mock\\Mock.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-01T19:18:53.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\\u05D0\u05E4\u05E8\u05EA\\Desktop\\BestBasket\\Service\\Class1.cs",
+              "RelativeDocumentMoniker": "Service\\Class1.cs",
+              "ToolTip": "C:\\Users\\\u05D0\u05E4\u05E8\u05EA\\Desktop\\BestBasket\\Service\\Class1.cs",
+              "RelativeToolTip": "Service\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T19:13:57.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\\u05D0\u05E4\u05E8\u05EA\\Desktop\\BestBasket\\Common\\Class1.cs",
+              "RelativeDocumentMoniker": "Common\\Class1.cs",
+              "ToolTip": "C:\\Users\\\u05D0\u05E4\u05E8\u05EA\\Desktop\\BestBasket\\Common\\Class1.cs",
+              "RelativeToolTip": "Common\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T19:13:35.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\\u05D0\u05E4\u05E8\u05EA\\Desktop\\BestBasket\\Repository\\Class1.cs",
+              "RelativeDocumentMoniker": "Repository\\Class1.cs",
+              "ToolTip": "C:\\Users\\\u05D0\u05E4\u05E8\u05EA\\Desktop\\BestBasket\\Repository\\Class1.cs",
+              "RelativeToolTip": "Repository\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T19:13:16.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\\u05D0\u05E4\u05E8\u05EA\\Desktop\\BestBasket\\Mock\\Class1.cs",
+              "RelativeDocumentMoniker": "Mock\\Class1.cs",
+              "ToolTip": "C:\\Users\\\u05D0\u05E4\u05E8\u05EA\\Desktop\\BestBasket\\Mock\\Class1.cs",
+              "RelativeToolTip": "Mock\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T19:12:51.361Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
