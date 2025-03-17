@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Common.Dto
 {
-    class CategoryDto
+    class ChainDto
     {
         public string Name { get; set; }
     }

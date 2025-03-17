@@ -6,8 +6,8 @@ using System.Threading.Tasks;
 
 namespace Common.Dto
 {
-    class CategoryDto
+    class ProductInBasketDto
     {
-        public string Name { get; set; }
+        public int Amount { get; set; }
     }
 }

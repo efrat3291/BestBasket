@@ -22,7 +22,12 @@ namespace Mock
 
         public void Save()
         {
-            SaveChanges();
+            SaveChangesAsync();
+        }
+
+        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+        {
+            optionsBuilder.UseSqlServer("server=dc2016\\erasql;database=myshopDb;trusted_connection=true;TrustServerCertificate=true");
         }
 
     }
